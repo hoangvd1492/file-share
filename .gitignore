@@ -1,5 +1,0 @@
-# ./server/.env
- server/node_modules/
-
-# ./file-share/.env
-file-share/node_modules/
